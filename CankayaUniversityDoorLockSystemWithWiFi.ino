@@ -15,7 +15,7 @@
     Arda YILDIZ           ardayildiz029@gmail.com
     Barkın SARIKARTAL     sarikartalbarkin@gmail.com
   Supporters:
-    Abdul Kadir GÖRÜR     agorur@cankaya.edu.tr
+    Abdül Kadir GÖRÜR     agorur@cankaya.edu.tr
     Burçin TUNA           btuna@cankaya.edu.tr
     H. Hakan MARAŞ        hhmaras@cankaya.edu.tr
 */
