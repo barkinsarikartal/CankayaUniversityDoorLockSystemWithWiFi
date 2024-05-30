@@ -12,10 +12,10 @@
 
   This code accounts for 1002625 bytes (76%) of program storage space, 48008 bytes (14%) of dynamic memory.
 
-  Contributors:
-    Arda YILDIZ           ardayildiz029@gmail.com
-    Barkın SARIKARTAL     sarikartalbarkin@gmail.com
-  Supporters:
-    Abdül Kadir GÖRÜR     agorur@cankaya.edu.tr
-    Burçin TUNA           btuna@cankaya.edu.tr
-    H. Hakan MARAŞ        hhmaras@cankaya.edu.tr
+## Contributors:
+#### Arda YILDIZ           ardayildiz029@gmail.com
+#### Barkın SARIKARTAL     sarikartalbarkin@gmail.com
+## Supporters:
+#### Abdül Kadir GÖRÜR     agorur@cankaya.edu.tr
+#### Burçin TUNA           btuna@cankaya.edu.tr
+#### H. Hakan MARAŞ        hhmaras@cankaya.edu.tr
