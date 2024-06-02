@@ -1,6 +1,6 @@
 # CankayaUniversityDoorLockSystemWithWiFi
 
-  This code project is made to enhance Çankaya University Technology Transfer Office Incubation Center's old door lock system.
+  This project is made to enhance Çankaya University Technology Transfer Office Incubation Center's old door lock system.
   This is the next generation of the DoorLockSystemWithRFID, which has been enhanced with WiFi support to perform more advanced tasks.
   Previous system: https://github.com/barkinsarikartal/DoorLockSystemWithRFID
 
